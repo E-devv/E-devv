@@ -22,7 +22,7 @@ Desarrolladora apasionada por la tecnología, el código limpio y el aprendizaje
 
 ---
 
-## 🧑‍💻 En qué me destaco
+## 👩💻 En qué me destaco
 
 - Adaptabilidad para trabajar en distintos lenguajes y entornos.
 - Curiosidad constante por aprender nuevas tecnologías y buenas prácticas.
